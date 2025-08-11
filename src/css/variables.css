@@ -1,0 +1,28 @@
+:root {
+  --primary-color: hsl(300, 43%, 22%);
+  --secondary-color: hsl(333, 80%, 67%);
+  --dark-gray: hsl(303, 10%, 53%);
+  --light-gray: hsl(300, 24%, 96%);
+  --white: hsl(0, 0%, 100%);
+  --color-link-footer: hsl(228, 45%, 44%);
+
+
+  --font-family: 'League Spartan';
+  --size-base: 0.985rem;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-bold: 700;
+
+  --space-xs: calc(var(--size-base) * 0.5);
+  --space-sm: calc(var(--size-base) * 1);
+  --space-md: calc(var(--size-base) * 1.5);
+  --space-lg: calc(var(--size-base) * 2);
+  --space-xl: calc(var(--size-base) * 2.5);
+  --space-xxl: calc(var(--size-base) * 3);
+
+  --border-radius-sm: calc(var(--size-base) * 0.5);
+
+  --font-size-sm: var(--size-base);
+  --font-size-lg: calc(var(--size-base) * 2.25);
+  --font-size-xl: calc(var(--size-base) * 3.5);
+}
