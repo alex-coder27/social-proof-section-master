@@ -1,6 +1,4 @@
-# Frontend Mentor - Componente de cartão de pré-visualização de 3 colunas
-
-![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
+# Frontend Mentor - Seção de prova social
 
 ## Bem-vindo(a)! 👋
 
@@ -8,12 +6,11 @@ Obrigado por conferir este desafio de codificação de front-end. Este projeto f
 
 ## O desafio
 
-Seu desafio é desenvolver este componente de cartão de pré-visualização de 3 colunas e torná-lo o mais próximo possível do design.
+Seu desafio é criar esta seção de prova social e torná-la o mais próxima possível do design.
 
 Os usuários devem ser capazes de:
 
 - Visualizar o layout ideal dependendo do tamanho da tela do seu dispositivo
-- Ver os estados de foco para elementos interativos
 
 ## Onde encontrar tudo
 
@@ -26,8 +23,8 @@ Os designs para mobile e desktop estão na pasta `/design`. As imagens necessár
 
 ## Links
 
--   **URL do Site ao Vivo:** [https://github.com/alex-coder27/3-column-preview-card-component-main]
--   **URL do Repositório:** [https://alex-coder27.github.io/3-column-preview-card-component-main]
+-   **URL do Site ao Vivo:** https://alex-coder27.github.io/social-proof-section-master
+-   **URL do Repositório:** https://github.com/alex-coder27/social-proof-section-master
 
 ## Como Executar o Projeto
 
@@ -35,11 +32,11 @@ Siga estas etapas para configurar e executar o projeto localmente:
 
 1.  **Clone o repositório (se estiver em um):**
     ```bash
-    git clone https://github.com/alex-coder27/3-column-preview-card-component-main.git
+    git clone https://github.com/alex-coder27/social-proof-section-master.git
     ```
 2.  **Navegue até a pasta do projeto:**
     ```bash
-    cd 3-column-preview-card-component-main
+    cd social-proof-section-master
     ```
 3.  **Abra o arquivo `index.html` no seu navegador:**
     Você pode simplesmente arrastar o `index.html` para a janela do seu navegador ou usar uma extensão de "Live Server" em seu editor de código (como o VS Code) para uma melhor experiência de desenvolvimento.
