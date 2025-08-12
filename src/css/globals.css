@@ -16,6 +16,6 @@ body {
 
 .page-wrapper {
   max-width: 24rem;
-  padding: 2rem;
+  padding: calc(var(--size-base) * 2.03);
   margin: 0 auto;
 }

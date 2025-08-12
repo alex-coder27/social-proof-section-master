@@ -7,7 +7,6 @@
 
     .page-wrapper {
         max-width: 90rem;
-        padding: 2rem;
         margin: 0 auto;
     }
 
@@ -19,7 +18,7 @@
 
     .intro {
         text-align: left;
-        padding-right: calc(var(--size-base) * 3.8);
+        padding-inline-end: calc(var(--size-base) * 3.8);
         margin-block-end: 0;
     }
 
